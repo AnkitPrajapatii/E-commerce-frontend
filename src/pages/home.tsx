@@ -9,6 +9,7 @@ const Home = () => {
 
     
   }
+  //product list
 
   return (
     <div className="home">
